@@ -1,0 +1,169 @@
+{
+  "seller": [
+    {
+      "name": "sam sidhu",
+      "email": "sam@seller.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "peter",
+      "password": "abc@123",
+      "email": "peter@test.com",
+      "id": 3
+    },
+    {
+      "name": "bruce",
+      "password": "abc@123",
+      "email": "bruce@test.com",
+      "id": 4
+    },
+    {
+      "name": "anil",
+      "password": "abc123",
+      "email": "anil@test.com",
+      "id": 5
+    },
+    {
+      "name": "alena",
+      "password": "abc123",
+      "email": "alena@test.com",
+      "id": 6
+    },
+    {
+      "name": "sam",
+      "password": "abc@123",
+      "email": "sam@test.com",
+      "id": 7
+    },
+    {
+      "name": "bhasker",
+      "password": "abc@123",
+      "email": "bhasker@test.com",
+      "id": 8
+    },
+    {
+      "name": "Autopart1",
+      "email": "autopart1@gmail.com",
+      "password": "autopart1@12345",
+      "id": 9
+    },
+    {
+      "name": "Autopart1",
+      "password": "autopart1@12345",
+      "email": "autopart1@gmail.com",
+      "id": 10
+    }
+  ],
+  "products": [
+    {
+      "name": "Car radiator",
+      "price": "650",
+      "category": "Car radiator",
+      "color": "white",
+      "description": "Car automative parts of car radiator",
+      "image": "https://sc04.alicdn.com/kf/H3c729a0cbc38496a81b791bce8569700L.jpg",
+      "id": 1
+    },
+    {
+      "name": "Plastic Automotive Components",
+      "price": "1000",
+      "category": "Components",
+      "color": "black",
+      "description": "Plastic Automotive Components two parts",
+      "image": "https://tiimg.tistatic.com/fp/1/006/046/plastic-automotive-components-629.jpg",
+      "id": 2
+    },
+    {
+      "name": "Rubber Car Part",
+      "price": "500",
+      "category": "Rubber part",
+      "color": "black",
+      "description": "Rubber car part for automative",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2021/3/BY/BX/WQ/2164144/car-parts-250x250.jpg",
+      "id": 3
+    },
+    {
+      "name": "Pressure Switch",
+      "price": "3000",
+      "category": "Switch",
+      "color": "Black",
+      "description": "Pressure Switch Automative pats",
+      "image": "https://media.napaonline.com/is/image/GenuinePartsCompany/200998799?fmt=jpg&qlt=70",
+      "id": 4
+    },
+    {
+      "name": "Motarcycle Parts",
+      "price": "2000",
+      "category": "Auto Parts",
+      "color": "Black",
+      "description": "High Precision Motarcycles Autoparts",
+      "image": "https://sc04.alicdn.com/kf/H46faf6a695a2427b890fd0222bff5727A.jpg",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "name": "anil",
+      "email": "anil@user.com",
+      "password": "abc123",
+      "id": 1
+    },
+    {
+      "name": "peter",
+      "email": "peter@user.com",
+      "password": "abc123",
+      "id": 2
+    },
+    {
+      "name": "hyden",
+      "email": "hyden@user.com",
+      "password": "abc123",
+      "id": 3
+    },
+    {
+      "name": "tony",
+      "email": "tony@user.com",
+      "password": "abc123",
+      "id": 4
+    },
+    {
+      "name": "kowsy",
+      "email": "kowsy@gmail.com",
+      "password": "@12345",
+      "id": 5
+    }
+  ],
+  "cart": [
+    {
+      "name": "Samsung m 40 a ",
+      "price": "550",
+      "category": "mobile",
+      "color": "white",
+      "description": "this is a Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 3,
+      "id": 7
+    }
+  ],
+  "orders": [
+    {
+      "email": "anil@user.com",
+      "address": "noida sector x",
+      "contact": "9999",
+      "totalPrice": 104750,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "email": "anil@test.com",
+      "address": "noida sector x",
+      "contact": "8877",
+      "totalPrice": 6100,
+      "userId": 1,
+      "id": 3
+    }
+  ]
+}
